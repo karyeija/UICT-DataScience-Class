@@ -1,0 +1,234 @@
+Car_ID,Make,Model,Year,Price ($),Mileage (km),Fuel Type,Transmission,Owner History,Sold (Yes/No)
+1001,Mazda,Mazda3,2013,32935.2,105354,Petrol,Manual,First Owner,No
+1002,Kia,Sorento,2015,23799.4,94113,Petrol,Automatic,Second Owner,No
+1003,Ford,Focus,2023,21786,91180000,Diesel,Manual,First Owner,No
+1004,Mazda,CX-5,2023,36836.8,40731,Diesel,Automatic,First Owner,Yes
+1005,Mazda,CX-5,2016,34722.6,68542,Electric,Manual,Third Owner,Yes
+1006,BMW,5 Series,2015,25584,80120,Petrol,Automatic,Third Owner,Yes
+1007,Hyundai,Tucson,2010,19900.8,137016,Diesel,Automatic,Second Owner,Yes
+1008,Mazda,Mazda6,2015,23763.2,122104,Hybrid,Automatic,Third Owner,No
+1009,Honda,CR-V,2016,19355.4,144843,Petrol,Manual,Second Owner,Yes
+1004,Mazda,CX-5,2023,44184.8,40411,Diesel,Automatic,First Owner,Yes
+1005,Mazda,CX-5,2016,,68070,Electric,Manual,Third Owner,Yes
+1010,BMW,5 Series,2020,52996.8,17436,Petrol,Manual,Third Owner,Yes
+1011,Hyundai,Tucson,2021,50299.4,39143,Diesel,Automatic,First Owner,No
+1012,Toyota,Camry,2019,32116.4,131468,Diesel,Manual,Third Owner,No
+1013,BMW,3 Series,2014,26301.4,68608,Electric,Manual,First Owner,No
+1014,Hyundai,Tucson,2016,47082.8,40106,Electric,Manual,Second Owner,No
+1009,Honda,CR-V,2016,27717.4,144843,Petrol,Manual,Second Owner,Yes
+1004,Mazda,CX-5,2023,37427.8,40411,Diesel,Automatic,First Owner,Yes
+1005,Mazda,CX-5,2016,35766,68070,Electric,Manual,Third Owner,Yes
+1015,Audi,A4,2020,11259.4,147818,Electric,Automatic,Third Owner,Yes
+1011,Hyundai,Tucson,2021,50299.4,39143,Diesel,Automatic,First Owner,No
+1012,Toyota,Camry,2019,32116.4,131468,Diesel,Manual,Third Owner,No
+1013,BMW,3 Series,2014,26301.4,68608,Electric,Manual,First Owner,No
+1014,Hyundai,Tucson,2016,47082.8,40106,Electric,Manual,Second Owner,No
+1009,Honda,CR-V,2016,27717.4,144843,Petrol,Manual,Second Owner,Yes
+1016,Mercedes,C-Class,2010,24878.2,120614,Hybrid,Automatic,Second Owner,No
+1017,Nissan,Rogue,2015,27652,123760,Electric,Automatic,Third Owner,Yes
+1018,Ford,Focus,2020,18611.6,118877,Electric,Manual,Third Owner,No
+1019,Audi,Q5,2010,37335.2,42629,Hybrid,Manual,Second Owner,Yes
+1020,Nissan,Altima,2016,39895.6,93157,Electric,Manual,Third Owner,Yes
+1021,Hyundai,Sonata,2010,48323.6,48042777,Electric,Automatic,First Owner,No
+1013,BMW,3 Series,2014,41414.2,48614,Electric,Manual,First Owner,No
+1014,Hyundai,Tucson,2016,48635.6,39852,Electric,Manual,Second Owner,No
+1022,Hyundai,Sonata,2016,48815.8,31926,Petrol,Manual,Second Owner,No
+1023,Mercedes,GLA,2019,28359.4,90603,Diesel,Automatic,Second Owner,No
+1024,Kia,Sportage,2019,,44134,Petrol,Automatic,Second Owner,Yes
+1020,Nissan,Altima,2016,23186.6,93157,Electric,Manual,Third Owner,Yes
+1021,Hyundai,Sonata,2010,36765.6,48042,Electric,Automatic,First Owner,No
+1014,Hyundai,Tucson,2016,48635.6,39852,Electric,Manual,Second Owner,No
+1022,Hyundai,Sonata,2016,48815.8,31926,Petrol,Manual,Second Owner,No
+1023,Mercedes,GLA,2019,28359.4,90603,Diesel,Automatic,Second Owner,No
+1013,BMW,3 Series,2014,48306.2,48614,Electric,Manual,First Owner,No
+1025,Ford,Focus,2023,45059.8,46001,Electric,Automatic,First Owner,Yes
+1026,Hyundai,Elantra,2013,38509.2,103269,Hybrid,Manual,Third Owner,Yes
+1027,Audi,Q5,2011,29352.2,96469,Petrol,Automatic,First Owner,Yes
+1028,Hyundai,Sonata,2010,45780.4,57093,Petrol,Manual,First Owner,No
+1029,Audi,A6,2019,27859.2,65254,Electric,Automatic,First Owner,No
+1030,Hyundai,Sonata,2019,24503.6,116187,Petrol,Manual,Second Owner,No
+1031,Hyundai,Elantra,2019,44160,77015,Petrol,Automatic,First Owner,Yes
+1032,Mercedes,C-Class,2023,34775.8,105211,Hybrid,Automatic,Second Owner,No
+1033,Kia,Sorento,2010,9410.8,171526676,Electric,Automatic,Third Owner,No
+1034,Mercedes,E-Class,2010,17174,160780,Petrol,Manual,Third Owner,No
+1035,Nissan,Sentra,2022,,46111,Petrol,Manual,Second Owner,Yes
+1036,Kia,Optima,2010,28854.8,95081,Petrol,Automatic,Third Owner,Yes
+1037,Mercedes,E-Class,2016,38435.6,98627,Electric,Manual,First Owner,Yes
+1038,BMW,X5,2015,21687,162150,Diesel,Manual,Third Owner,Yes
+1039,Kia,Sportage,2012,27502,142845,Diesel,Automatic,First Owner,Yes
+1040,Toyota,Rav4,2017,22652.4,87903,Hybrid,Automatic,Third Owner,No
+1032,Mercedes,C-Class,2023,26589.8,105561,Hybrid,Automatic,Second Owner,No
+1033,Kia,Sorento,2010,17686.8,171556,Electric,Automatic,Third Owner,No
+1041,Mercedes,C-Class,2022,30565.6,54277,Electric,Manual,First Owner,No
+1042,Toyota,Rav4,2012,51736.4,37663,Hybrid,Manual,First Owner,Yes
+1043,Audi,A6,2020,,54213,Electric,Manual,Third Owner,No
+1036,Kia,Optima,2010,36939.8,95081,Petrol,Automatic,Third Owner,Yes
+1037,Mercedes,E-Class,2016,21083.6,98627,Electric,Manual,First Owner,Yes
+1038,BMW,X5,2015,16131,162150,Diesel,Manual,Third Owner,Yes
+1044,Audi,A4,2018,19867.6,105317,Petrol,Manual,Second Owner,Yes
+1045,BMW,3 Series,2015,55887.4,11653,Electric,Automatic,Second Owner,No
+1046,Kia,Sorento,2013,19482.4,116788,Petrol,Automatic,Second Owner,Yes
+1047,Mazda,Mazda6,2021,47428,54090,Diesel,Automatic,Third Owner,Yes
+1048,Toyota,Camry,2023,38403.6,105317,Electric,Manual,Second Owner,Yes
+1049,Ford,Fusion,2014,25675,1399858678,Hybrid,Automatic,Second Owner,No
+1050,Kia,Sportage,2015,28655.4,128888,Electric,Automatic,First Owner,Yes
+1051,Audi,Q5,2022,27021,112985,Hybrid,Automatic,Second Owner,No
+1052,Nissan,Sentra,2015,35472.6,58312,Hybrid,Manual,Third Owner,Yes
+1053,Toyota,Rav4,2018,5627.4,174673,Diesel,Automatic,Third Owner,Yes
+1054,Ford,Fusion,2017,25775.4,101223,Hybrid,Automatic,Second Owner,No
+1055,Audi,Q5,2018,37044.2,82639,Hybrid,Automatic,Third Owner,No
+1056,Mercedes,E-Class,2018,17939.8,127306,Hybrid,Manual,First Owner,Yes
+1057,Nissan,Altima,2014,24105.8,100821,Petrol,Automatic,First Owner,Yes
+1058,Mazda,Mazda6,2010,42456.4,79123,Diesel,Manual,Second Owner,Yes
+1059,Toyota,Camry,2011,34406.2,82639,Petrol,Manual,Third Owner,Yes
+1060,Toyota,Corolla,2016,38609,99355,Electric,Automatic,Second Owner,Yes
+1051,Audi,Q5,2022,32490,112985,Hybrid,Automatic,Second Owner,No
+1052,Nissan,Sentra,2015,34981.6,58312,Hybrid,Manual,Third Owner,Yes
+1053,Toyota,Rav4,2018,20666.4,174673,Diesel,Automatic,Third Owner,Yes
+1054,Ford,Fusion,2017,37615.4,101223,Hybrid,Automatic,Second Owner,No
+1061,Hyundai,Tucson,2013,36258.2,98344,Hybrid,Manual,Second Owner,No
+1062,Mercedes,C-Class,2016,24466,95570,Hybrid,Automatic,First Owner,No
+1063,Honda,CR-V,2023,18445.8,141441,Electric,Manual,Third Owner,Yes
+1064,Hyundai,Tucson,2017,24059.4,152098,Hybrid,Automatic,Third Owner,No
+1065,BMW,5 Series,2023,31734.8,104846,Petrol,Manual,Third Owner,No
+1066,Hyundai,Elantra,2010,17804.8,169211,Diesel,Manual,Third Owner,No
+1067,Kia,Optima,2022,36868,60880,Electric,Automatic,Second Owner,Yes
+1068,Hyundai,Tucson,2020,39732.6,70252,Hybrid,Automatic,Third Owner,Yes
+1069,Hyundai,Elantra,2012,20579.8,110501,Electric,Automatic,Second Owner,No
+1070,Audi,A6,2019,32498.4,51818,Electric,Automatic,First Owner,Yes
+1071,Nissan,Altima,2016,29137,120100,Diesel,Manual,First Owner,Yes
+1072,Honda,Accord,2017,18221.2,131404,Petrol,Automatic,First Owner,No
+1073,Hyundai,Elantra,2022,42562,26750,Diesel,Manual,Second Owner,No
+1074,Toyota,Rav4,2018,26254.4,132843,Electric,Manual,Second Owner,Yes
+1075,BMW,3 Series,2011,40201.8,23671,Petrol,Manual,Third Owner,Yes
+1076,Audi,A4,2014,20146,121985,Diesel,Manual,First Owner,Yes
+1077,Audi,Q5,2016,25550.6,87412,Petrol,Manual,Third Owner,Yes
+1078,Nissan,Sentra,2016,17788,115050,Diesel,Automatic,Third Owner,Yes
+1079,Honda,CR-V,2014,26131.8,84376,Hybrid,Automatic,Second Owner,No
+1080,Mercedes,E-Class,2014,44759.8,62376,Diesel,Automatic,Second Owner,Yes
+1068,Hyundai,Tucson,2020,33691.6,70252,Hybrid,Automatic,Third Owner,Yes
+1069,Hyundai,Elantra,2012,34097.8,110501,Electric,Automatic,Second Owner,No
+1070,Audi,A6,2019,49430.4,51818,Electric,Automatic,First Owner,Yes
+1071,Nissan,Altima,2016,30638,120100,Diesel,Manual,First Owner,Yes
+1081,Hyundai,Elantra,2021,49872.4,24018,Petrol,Manual,Second Owner,No
+1082,BMW,5 Series,2013,34577.8,55496,Petrol,Manual,Third Owner,No
+1083,BMW,3 Series,2023,41855.8,44346,Petrol,Automatic,First Owner,No
+1084,Mazda,Mazda3,2020,28452,87660,Petrol,Automatic,First Owner,Yes
+1085,Ford,Escape,2010,15840.8,134716,Electric,Manual,Third Owner,Yes
+1086,Kia,Sportage,2022,22715,152485,Diesel,Manual,Third Owner,Yes
+1087,Nissan,Rogue,2014,33503.4,116818,Hybrid,Automatic,First Owner,Yes
+1088,Nissan,Rogue,2020,23355.4,117263,Diesel,Manual,Third Owner,Yes
+1089,Hyundai,Tucson,2023,39845.4,56688,Electric,Manual,Third Owner,Yes
+1090,Ford,Fusion,2015,42496.6,84962,Petrol,Automatic,Third Owner,Yes
+1091,Ford,Focus,2022,42785.6,68652,Diesel,Automatic,Third Owner,No
+1092,BMW,3 Series,2019,43775.6,68807,Hybrid,Manual,First Owner,Yes
+1093,Kia,Optima,2023,28381.8,157951,Petrol,Manual,Third Owner,Yes
+1094,Toyota,Camry,2012,43102.2,40444,Diesel,Manual,First Owner,Yes
+1095,Honda,CR-V,2011,6940.2,175499,Petrol,Automatic,Third Owner,Yes
+1096,Hyundai,Sonata,2013,28167.6,68652,Electric,Automatic,First Owner,No
+1097,BMW,3 Series,2013,16028,133505,Diesel,Automatic,First Owner,No
+1098,Nissan,Altima,2011,37094.2,114474,Electric,Automatic,Second Owner,Yes
+1093,Kia,Optima,2023,11646.8,157951,Petrol,Manual,Third Owner,Yes
+1094,Toyota,Camry,2012,36217.2,40444,Diesel,Manual,First Owner,Yes
+1099,BMW,X5,2014,22244.8,162831,Hybrid,Manual,First Owner,No
+1100,Hyundai,Sonata,2016,22222,168530,Electric,Automatic,Second Owner,Yes
+1101,Mazda,Mazda6,2011,30460.4,95128,Hybrid,Automatic,Second Owner,No
+1102,Audi,A6,2011,33310.2,127019,Diesel,Manual,First Owner,Yes
+1103,BMW,5 Series,2017,33572.4,110523,Petrol,Automatic,Second Owner,No
+1104,Honda,Accord,2015,52245,31375,Hybrid,Manual,Third Owner,Yes
+1105,Mazda,Mazda6,2022,15438.2,138749,Hybrid,Manual,First Owner,No
+1106,Mercedes,C-Class,2018,32398.4,102608,Petrol,Automatic,Third Owner,No
+1107,Mazda,Mazda6,2010,37774.2,65374,Electric,Automatic,Third Owner,Yes
+1108,Nissan,Rogue,2011,47465.4,43763,Electric,Automatic,Second Owner,Yes
+1109,Mazda,Mazda3,2012,18648.6,134407,Hybrid,Automatic,First Owner,No
+1110,BMW,X5,2017,21028.6,148167,Diesel,Automatic,Second Owner,Yes
+1111,Toyota,Corolla,2011,17008.4,124843,Electric,Automatic,First Owner,No
+1112,BMW,X5,2022,23809.4,97613,Hybrid,Manual,First Owner,No
+1113,BMW,3 Series,2021,32015,105140,Diesel,Automatic,Third Owner,Yes
+1114,Kia,Optima,2012,49371.2,35304,Petrol,Automatic,First Owner,Yes
+1115,Mercedes,E-Class,2019,26494.8,128391,Electric,Automatic,First Owner,Yes
+1116,Nissan,Rogue,2016,20289.6,104957,Petrol,Automatic,Second Owner,No
+1117,BMW,5 Series,2018,14690.2,152829,Electric,Automatic,First Owner,Yes
+1118,Mercedes,E-Class,2010,26019.2,92574,Hybrid,Manual,First Owner,No
+1119,Hyundai,Sonata,2013,29267,83100,Petrol,Manual,First Owner,No
+1120,Kia,Optima,2014,12437.2,144574,Electric,Automatic,Second Owner,Yes
+1121,Kia,Sorento,2010,32991,96665,Petrol,Automatic,Second Owner,Yes
+1122,Nissan,Altima,2010,24552.8,111916,Diesel,Manual,Second Owner,No
+1123,Honda,CR-V,2016,22417,114355,Diesel,Automatic,Third Owner,Yes
+1124,Hyundai,Sonata,2016,27374.2,114509,Electric,Automatic,First Owner,No
+1125,Nissan,Rogue,2011,35644,105230,Diesel,Manual,Second Owner,Yes
+1126,Nissan,Rogue,2016,38797.6,90197,Petrol,Automatic,Second Owner,Yes
+1127,Mercedes,C-Class,2017,22017.8,133936,Petrol,Manual,Second Owner,No
+1128,BMW,5 Series,2014,31761.6,104662,Electric,Manual,Third Owner,No
+1129,Mazda,Mazda3,2022,42999.4,63383,Electric,Automatic,Third Owner,No
+1130,Hyundai,Sonata,2011,36793.4,69653,Hybrid,Automatic,Third Owner,Yes
+1131,Mercedes,C-Class,2019,17594.4,119748,Diesel,Automatic,First Owner,No
+1132,Hyundai,Sonata,2011,29459.4,83773,Electric,Automatic,First Owner,Yes
+1133,Audi,Q5,2012,29600.6,142217,Electric,Manual,Third Owner,Yes
+1134,Kia,Sportage,2014,21398,114225,Petrol,Automatic,First Owner,No
+1135,Hyundai,Elantra,2013,21400.6,134892,Hybrid,Manual,Third Owner,No
+1136,Mazda,Mazda6,2012,26174.8,78001,Electric,Automatic,First Owner,Yes
+1137,Audi,Q5,2012,23070.4,87808,Petrol,Automatic,Second Owner,Yes
+1138,Ford,Escape,2015,45520.6,68992,Hybrid,Manual,Second Owner,Yes
+1139,Honda,CR-V,2015,37141.4,79408,Electric,Automatic,Second Owner,No
+1140,Mazda,Mazda3,2022,44611.4,53078,Electric,Manual,Second Owner,No
+1141,Mazda,Mazda3,2010,23646.2,173944,Petrol,Automatic,Third Owner,No
+1142,BMW,5 Series,2022,29392,118740,Hybrid,Automatic,First Owner,Yes
+1143,BMW,3 Series,2019,25405.2,155904,Diesel,Manual,Third Owner,Yes
+1144,Mazda,Mazda3,2020,37289.4,74378,Diesel,Automatic,Second Owner,No
+1145,Hyundai,Sonata,2010,28484.4,114398,Electric,Automatic,Second Owner,No
+1146,BMW,3 Series,2013,41832.2,38789,Electric,Automatic,Second Owner,Yes
+1147,Toyota,Corolla,2017,22720.8,88991,Hybrid,Automatic,First Owner,Yes
+1148,Ford,Escape,2023,19240.4,148983,Hybrid,Manual,First Owner,No
+1149,Mazda,Mazda3,2012,20937.4,156358,Hybrid,Automatic,First Owner,No
+1150,Mazda,Mazda6,2012,42359.8,36256,Electric,Manual,First Owner,No
+1151,Ford,Fusion,2016,28374,72030,Petrol,Manual,First Owner,No
+1152,Toyota,Corolla,2015,30545.8,62946,Diesel,Manual,First Owner,Yes
+1153,Nissan,Altima,2020,45283.6,58782,Petrol,Manual,Third Owner,No
+1154,BMW,3 Series,2017,29278.8,95911,Petrol,Manual,Third Owner,Yes
+1155,Nissan,Altima,2020,20183,107885,Petrol,Automatic,First Owner,No
+1156,Mazda,CX-5,2014,27731,81880,Electric,Manual,Third Owner,Yes
+1157,Mazda,CX-5,2020,27982,77430,Hybrid,Manual,First Owner,No
+1158,Ford,Fusion,2018,37653.8,70961,Diesel,Automatic,First Owner,No
+1159,Mercedes,C-Class,2011,26065.6,157672,Hybrid,Automatic,Second Owner,No
+1160,Toyota,Camry,2019,32756,60790,Electric,Manual,Second Owner,No
+1161,Audi,A6,2011,31342.8,88936,Hybrid,Automatic,Third Owner,Yes
+1162,Audi,A4,2022,44398.8,45031,Electric,Manual,Second Owner,Yes
+1163,Mercedes,C-Class,2021,11856.2,169124,Electric,Automatic,Third Owner,No
+1164,BMW,3 Series,2011,26231,119370,Petrol,Manual,First Owner,Yes
+1165,BMW,5 Series,2016,29077,91660,Petrol,Automatic,First Owner,No
+1166,Toyota,Rav4,2012,33958.2,123299,Diesel,Automatic,Second Owner,No
+1167,Toyota,Camry,2017,21131.6,179562,Electric,Automatic,First Owner,No
+1168,BMW,3 Series,2020,23340,156800,Electric,Automatic,First Owner,No
+1169,Nissan,Rogue,2010,23352,143175,Diesel,Automatic,First Owner,Yes
+1170,Nissan,Rogue,2013,40902.8,57016,Petrol,Manual,First Owner,Yes
+1171,BMW,3 Series,2023,18929.2,178314,Hybrid,Automatic,Second Owner,No
+1172,Toyota,Camry,2015,25144.6,118422,Electric,Automatic,Second Owner,Yes
+1173,Nissan,Altima,2014,18745.6,153857,Electric,Automatic,Third Owner,Yes
+1174,Hyundai,Elantra,2023,33885.8,124941,Petrol,Automatic,First Owner,Yes
+1175,Toyota,Corolla,2023,16914.2,127299,Hybrid,Manual,First Owner,No
+1176,Mercedes,GLA,2022,39044.6,60197,Electric,Automatic,Second Owner,Yes
+1177,Audi,A4,2020,17752.6,147747,Electric,Manual,Second Owner,Yes
+1178,BMW,X5,2016,47252.6,43877,Petrol,Automatic,Third Owner,No
+1179,Nissan,Rogue,2014,26065.2,81044,Electric,Manual,Third Owner,No
+1180,Ford,Focus,2013,30527.8,102791,Electric,Automatic,Third Owner,Yes
+1181,Toyota,Rav4,2015,31661.6,43682,Electric,Automatic,Second Owner,No
+1182,Toyota,Rav4,2019,35017.8,106756,Hybrid,Manual,Second Owner,No
+1183,Ford,Escape,2014,14167.6,133337,Hybrid,Manual,Second Owner,No
+1184,Ford,Fusion,2012,40988.2,27194,Petrol,Automatic,First Owner,No
+1185,Audi,Q5,2021,54405.8,24201,Petrol,Manual,Third Owner,No
+1186,BMW,5 Series,2010,33745,65560,Electric,Manual,Third Owner,Yes
+1187,Mazda,Mazda6,2014,25593.4,151193,Electric,Manual,Third Owner,No
+1188,Mercedes,C-Class,2016,26125.2,119879,Hybrid,Manual,Second Owner,Yes
+1189,Mazda,Mazda6,2011,41625.8,42956,Hybrid,Manual,Second Owner,No
+1190,Mazda,Mazda3,2020,24008.2,165794,Hybrid,Manual,First Owner,Yes
+1191,Mazda,CX-5,2013,25816,128160,Diesel,Manual,First Owner,Yes
+1192,Mazda,Mazda3,2022,9681.4,158428,Electric,Manual,Second Owner,No
+1193,Audi,Q5,2022,10842,154050,Electric,Manual,Second Owner,No
+1194,BMW,X5,2010,35624.8,57881,Hybrid,Manual,Second Owner,Yes
+1195,Toyota,Rav4,2020,25245,100865,Petrol,Manual,Second Owner,No
+1196,Mazda,CX-5,2013,14889.2,156629,Electric,Automatic,Second Owner,Yes
+1197,Mercedes,E-Class,2015,24862.2,139034,Electric,Automatic,Second Owner,No
+1198,Nissan,Rogue,2010,43331.8,68061,Petrol,Manual,First Owner,Yes
+1199,Ford,Escape,2012,25638.6,121967,Hybrid,Automatic,First Owner,No
+1200,Mercedes,C-Class,2016,20485.8,148291,Hybrid,Manual,First Owner,No
